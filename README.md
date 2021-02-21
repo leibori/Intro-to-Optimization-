@@ -4,5 +4,5 @@ Schools "Partani"(one-on-one time for teacher and student) Timetable Scheduling 
 Our solution offers an optimization for the scheduling problem coded with jupyter notebook using the Gurobi optimization solver library.
 OUTPUT:
 [![2021-02-21-234220.jpg](https://i.postimg.cc/Dw6Vbr94/2021-02-21-234220.jpg)](https://postimg.cc/QFFY2Txj)
-[![211.jpg](https://i.postimg.cc/cCykz6qN/211.jpg)](https://postimg.cc/WF87FNb9)
+[url=https://postimg.cc/MMqDpMxM][img]https://i.postimg.cc/MMqDpMxM/211.jpg[/img][/url] [url=https://postimg.cc/yJXmt19V][img]https://i.postimg.cc/
 
